@@ -1,0 +1,5 @@
+@media (min-width: 992px) {
+	.header-fixed.toolbar-fixed .wrapper {
+	   padding-top: calc(35px + var(--kt-toolbar-height));
+	}
+}
